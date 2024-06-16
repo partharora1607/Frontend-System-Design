@@ -13,3 +13,11 @@
 11. SSJI
 12. SRI
 13. Much More...
+
+# Popular Interview Topics:
+
+1. CORS
+2. PII (Personal Identity Information)
+3. Input Senitization
+4. Validation
+5. Web Storage
